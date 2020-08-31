@@ -1,0 +1,9 @@
+/app/node_modules/
+/app/.env
+/app/package-lock.json
+/app/yarn.lock
+/runtime/
+/vendor/
+/web/assets/
+
+.idea
